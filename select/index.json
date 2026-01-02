@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヨヒラ",
+  "base_artist": "n-buna",
+  "createdAt": "2026-01-02T07:45:45.920056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヨヒラ",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/01_ヨヒラ_n-buna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヨヒラ",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_ヨヒラ_n-buna.txt"
+    }
+  ]
+}
